@@ -1,2 +1,4 @@
 Adding line from the user1
 user2
+
+Adiing space and line from user1
